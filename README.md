@@ -7,4 +7,4 @@ Python, SQL, Go, JavaScript, HTML, GitHub, GitHub Actions, Docker, Docker Compos
 ## Interests
 Data Governance, Gamification, Human-Computer Interaction
 
-<img src="https://github-readme-stats-abtrax.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=4&theme=midnight-purple&hide_border=true&hide=jupyter%20notebook&username=nattrio" alt="languages graph"/>
+<img src="https://github-readme-stats-abtrax.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=4&theme=dracula&hide_border=true&hide=jupyter%20notebook&username=nattrio" alt="languages graph"/>
