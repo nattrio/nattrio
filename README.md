@@ -1,5 +1,5 @@
 # Welcome, Nattrio is here!🍀
-You can visit my [LinkedIn](https://www.linkedin.com/in/jirapat-klaokliang) profile.
+You can visit my [LinkedIn](https://www.linkedin.com/in/jirapat-klaokliang) profile aslo [Medium](https://medium.com/@nattrio) for more contents.
 
 ## Tech Stacks
 Python, SQL, Go, JavaScript, HTML, GitHub, GitHub Actions, Docker, Docker Compose, Hadoop, Apache Spark, NumPy, Pandas, MongoDB, BigQuery, Azure App Service, Amazon EC2, Figma, Scrum Framework, Agile Software Development
