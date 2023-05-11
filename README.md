@@ -2,7 +2,7 @@
 You can visit my [LinkedIn](https://www.linkedin.com/in/jirapat-klaokliang) profile aslo [Medium](https://medium.com/@nattrio) for more contents.
 
 ## Tech Stacks
-Python, SQL, Go, JavaScript, HTML, GitHub, GitHub Actions, Docker, Docker Compose, Hadoop, Apache Spark, NumPy, Pandas, MongoDB, BigQuery, Azure App Service, Amazon EC2, Figma, Scrum Framework, Agile Software Development
+Go, Python, SQL, TypeScript, HTML, GitHub, GitHub Actions, GitLab, Docker, Docker Compose, Hadoop, Apache Spark, NumPy, Pandas, MongoDB, BigQuery, Azure App Service, Amazon EC2, Figma, Scrum Framework, Agile Software Development
 
 <img src="https://github-readme-stats-abtrax.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=4&theme=dracula&hide_border=true&hide=jupyter%20notebook&username=nattrio" alt="languages graph"/>
 
