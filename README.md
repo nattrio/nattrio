@@ -1,5 +1,5 @@
 # Welcome, Nattrio is here!🍀
-**Software Developer**
+**Software Developer | Data Engineer**
 
 You can visit my [LinkedIn](https://www.linkedin.com/in/jirapat-klaokliang) profile. Also [Medium](https://medium.com/@nattrio) and [DEV](https://dev.to/nattrio) for more contents.
 
