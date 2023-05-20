@@ -6,5 +6,7 @@ You can visit my [LinkedIn](https://www.linkedin.com/in/jirapat-klaokliang) prof
 ## Tech Stacks
 Go, Python, SQL, TypeScript, HTML, GitHub, GitHub Actions, GitLab, Docker, Docker Compose, Hadoop, Apache Spark, NumPy, Pandas, MongoDB, BigQuery, Azure App Service, Amazon EC2, Figma, Scrum Framework, Agile Software Development
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&langs_count=4&theme=dracula&hide_border=true&hide=jupyter%20notebook&username=nattrio)](https://github.com/nattrio)
+
 ## Interests
 Data Governance, Gamification, Human-Computer Interaction
