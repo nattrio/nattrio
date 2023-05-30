@@ -22,6 +22,3 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&langs_count=4&theme=dracula&hide_border=true&hide=jupyter%20notebook&username=nattrio)](https://github.com/nattrio)
-
-## Interests
-Data Governance, Gamification, Human-Computer Interaction
