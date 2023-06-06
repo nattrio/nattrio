@@ -1,7 +1,7 @@
 # Welcome, Nattrio is here!🍀
 **Software Developer | Data Engineer**
 
-- 🌠 Go Fiber Back-end Developer.
+- 🌠 Go Back-end Developer.
 - 🌱 Currently learning React and TypeScript.
 - 🖼️ Part-time Pixel Art Creator.
 - 💼 Checkout my [LinkedIn](https://www.linkedin.com/in/jirapat-klaokliang) profile.
