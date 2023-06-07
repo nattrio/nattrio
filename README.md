@@ -4,7 +4,7 @@
 - 🌠 Go Back-end Developer.
 - 🌱 Currently learning React and TypeScript.
 - 🖼️ Part-time Pixel Art Creator.
-- 💼 Checkout my [LinkedIn](https://www.linkedin.com/in/jirapat-klaokliang) profile.
+- 💼 Checkout my [Portfolio](https://nattrio-showcase.netlify.app/).
 - 📚 Visit my blogs on [DEV](https://dev.to/nattrio) and [Medium](https://medium.com/@nattrio).
 
 ## Tech Stacks
