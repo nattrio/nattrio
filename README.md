@@ -1,9 +1,9 @@
 # Welcome, Nattrio is here!🍀
 **Software Developer | Data Engineer**
 
-- 🌠 Go Back-end Developer.
+- 🌠 Go Back-end Engineer.
 - 🌱 Currently learning React and TypeScript.
-- 🖼️ Part-time Pixel Art Creator.
+- 🎮 Part-time Game Developer.
 - 💼 Checkout my [Portfolio](https://nattrio-showcase.netlify.app/).
 - 📚 Visit my blogs on [DEV](https://dev.to/nattrio) and [Medium](https://medium.com/@nattrio).
 
