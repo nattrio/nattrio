@@ -3,7 +3,7 @@
 
 - ⚡ I'm Gopher and Rustacean.
 - 🌱 Currently learning DevSecOps.
-- 📌 Visit my blogs on [Medium](https://medium.com/@nattrio) and [DEV](https://dev.to/nattrio).
+- 📌 Visit my blogs on [nattrio.dev](https://nattrio.dev).
 
 ## Tech Stacks
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
